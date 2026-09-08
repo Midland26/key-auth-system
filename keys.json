@@ -1,3 +1,12 @@
 {
-    "keys": ["KEY-7QXM-2FLD-9RTZ-K3WP-8HNC", "active": true]
+    "keys": [
+        {
+            "key": "KEY-7QXM-2FLD-9RTZ-K3WP-8HNC",
+            "active": true
+        },
+        {
+            "key": "KEY-7QXM-2FLD-9RTZ-K3WP-8HNB",
+            "active": true
+        }
+    ]
 }
